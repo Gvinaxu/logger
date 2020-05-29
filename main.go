@@ -1,7 +1,7 @@
 package main
 
 import (
-	logger "github.com/Gvinaxu/logger/core"
+	logger "github.com/gavlnxu/logger/core"
 )
 
 func main() {
