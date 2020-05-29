@@ -5,7 +5,7 @@ Features:
 - Support Console Log Print
 - Support File Log Print
 
-`go get github.com/Gvinaxu/logger`
+`go get github.com/gavlnxu/logger`
 
 Todo:
 - More Test
